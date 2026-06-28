@@ -81,9 +81,9 @@ Principais funcionalidades
 # 📫 Contato
 
 <p>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN">
+  <a href="https://www.linkedin.com/in/gideanmatossantana">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>  <a href="mailto:SEUEMAIL@gmail.com">
+  </a>  <a href="mailto: g1d34n@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
