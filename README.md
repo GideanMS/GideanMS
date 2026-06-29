@@ -1,5 +1,8 @@
 # Olá, eu sou o Gidean! 👋
 
+<img width="400" height="400" alt="octocat-1782766712953" src="https://github.com/user-attachments/assets/bffef1ea-ef45-4439-877e-041eb6e4ed95" />
+
+
 💻 Desenvolvedor Back-end em formação, apaixonado por tecnologia e resolução de problemas.
 
 Atualmente estudo Ciência da Computação e concentro meus estudos no ecossistema .NET, desenvolvendo projetos para aprimorar minhas habilidades em arquitetura de software, APIs REST e banco de dados. Estou sempre buscando aprender novas tecnologias e construir soluções escaláveis.
