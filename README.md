@@ -67,10 +67,9 @@ Principais funcionalidades
 
 # 📈 GitHub Stats
 
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GideanMS&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GideanMS&layout=compact&theme=tokyonight"/>
-</p>
+![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=GideanMS&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=GideanMS&layout=compact&theme=tokyonight)
 
 # 🎯 Objetivos
 
