@@ -73,7 +73,7 @@ Principais funcionalidades
 
 # 🎯 Objetivos
 
-- Tornar-me Desenvolvedor Back-end .NET.
+- Me tornar um Desenvolvedor Back-end .NET.
 - Aprimorar conhecimentos em Cloud e Arquitetura de Software.
 - Construir projetos que resolvam problemas reais.
 - Contribuir com projetos Open Source.
