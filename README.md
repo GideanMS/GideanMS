@@ -2,9 +2,9 @@
 
 <img src="assets/banner.svg" width="100%" alt="Gidean Matos — Software Developer" />
 
-<a href="https://SEU-USUARIO.github.io/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-SEU--USUARIO.github.io-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=0D1117" /></a>
-<a href="https://www.linkedin.com/in/gideanmatos" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:gidean.matos@email.com"><img src="https://img.shields.io/badge/EMAIL-SAY%20HELLO-F0F6FC?style=for-the-badge&logo=gmail&logoColor=0D1117" /></a>
+<a href="https://GideanMS.github.io/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-gideanms.github.io-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=0D1117" /></a>
+<a href="https://www.linkedin.com/in/gideanmatossantana" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:g1d34n@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY%20HELLO-F0F6FC?style=for-the-badge&logo=gmail&logoColor=0D1117" /></a>
 
 </div>
 
@@ -41,8 +41,7 @@ $ cat status.txt
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=github_dark&bg_color=161B22&title_color=58A6FF&text_color=F0F6FC&icon_color=58A6FF&border_color=30363D" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=github_dark&bg_color=161B22&title_color=58A6FF&text_color=F0F6FC&border_color=30363D" width="45%" />
+![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=GideanMS&show_icons=true&theme=tokyonight)
 
 </div>
 
