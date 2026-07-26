@@ -52,6 +52,6 @@ $ cat status.txt
 
 <div align="center">
 
-*Designed to look like the terminal on my <a href="https://SEU-USUARIO.github.io/">portfolio</a> — same stack, same story.*
+*Designed to look like the terminal on my <a href="https://GideanMS.github.io/portifolio/">portfolio</a> — same stack, same story.*
 
 </div>
