@@ -2,7 +2,7 @@
 
 <img src="assets/banner.svg" width="100%" alt="Gidean Matos — Software Developer" />
 
-<a href="https://gideanms.github.io/Portifolio/" target="_blank"><img src="https://img.shields.io/badge%2FPortifolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=0D1117" /></a><a href="https://www.linkedin.com/in/gideanmatossantana" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://gideanms.github.io/Portifolio/" target="_blank"><img src="https://img.shields.io/badge%2FPortifolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=0D1117" /></a><a href="https://www.linkedin.com/in/gideanmatossantana" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:g1d34n@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY%20HELLO-F0F6FC?style=for-the-badge&logo=gmail&logoColor=0D1117" /></a>
 
 </div>
@@ -11,17 +11,21 @@
 
 ```bash
 $ whoami
-> gidean-matos :: software developer :: backend focus :: ASP.NET Core
-
+> gidean-matos :: software developer :: backend focus :: remote-friendly
+ 
 $ uptime
-> 2+ years shipping software, focused on backend development with C# & .NET
+> 2+ years of professional experience.
+> Focused on backend development using ASP.NET Core.
+ 
+$ cat about.md
+> Software developer with experience in API development
+> using ASP.NET Core, Entity Framework Core, and SQL Server.
 
-$ ls ./currently_shipping
-> factory-manager/     # industrial management API — machines, orders, maintenance, inventory
->                       # C# · ASP.NET Core · Entity Framework Core · SQL Server · Docker
-
+> Interest in software architecture, best practices, and backend development.
+> Currently expanding the portfolio through FactoryManager.
+ 
 $ cat status.txt
-> open to backend opportunities — remote or hybrid
+> [ open to backend opportunities — remote or hybrid ]
 ```
 
 <br>
