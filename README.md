@@ -2,8 +2,7 @@
 
 <img src="assets/banner.svg" width="100%" alt="Gidean Matos — Software Developer" />
 
-<a href="https://GideanMS.github.io/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-gideanms.github.io-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=0D1117" /></a>
-<a href="https://www.linkedin.com/in/gideanmatossantana" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://gideanms.github.io/Portifolio/" target="_blank"><img src="https://img.shields.io/badge%2FPortifolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=0D1117" /></a><a href="https://www.linkedin.com/in/gideanmatossantana" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:g1d34n@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY%20HELLO-F0F6FC?style=for-the-badge&logo=gmail&logoColor=0D1117" /></a>
 
 </div>
