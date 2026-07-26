@@ -1,0 +1,34 @@
+<svg width="1000" height="220" viewBox="0 0 1000 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#161B22"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1F6FEB" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#58A6FF" stop-opacity="0.55"/>
+    </linearGradient>
+    <linearGradient id="wave2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#79C0FF" stop-opacity="0.35"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#30363D" stroke-width="0.6" opacity="0.35"/>
+    </pattern>
+  </defs>
+
+  <rect width="1000" height="220" fill="url(#bg)"/>
+  <rect width="1000" height="220" fill="url(#grid)"/>
+
+  <path d="M0,150 C220,190 420,110 650,150 C820,178 900,150 1000,130 L1000,220 L0,220 Z" fill="url(#wave2)"/>
+  <path d="M0,175 C260,210 480,140 700,172 C860,196 940,178 1000,160 L1000,220 L0,220 Z" fill="url(#wave)"/>
+
+  <text x="50" y="95" font-family="'Courier New', Consolas, monospace" font-size="15" fill="#58A6FF">$ whoami</text>
+
+  <text x="50" y="135" font-family="'Courier New', Consolas, monospace" font-size="42" font-weight="700" fill="#F0F6FC" letter-spacing="1">GIDEAN MATOS</text>
+
+  <text x="50" y="165" font-family="'Courier New', Consolas, monospace" font-size="17" fill="#8B949E">Software Developer <tspan fill="#30363D">·</tspan> <tspan fill="#58A6FF">C#</tspan> &amp; <tspan fill="#58A6FF">.NET</tspan></text>
+
+  <circle cx="955" cy="45" r="5" fill="#3FB950"/>
+  <text x="968" y="49" font-family="'Courier New', Consolas, monospace" font-size="12" fill="#8B949E">open to work</text>
+</svg>
